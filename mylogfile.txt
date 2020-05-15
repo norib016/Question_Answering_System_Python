@@ -1,0 +1,59 @@
+1Q) who is trump?
+1A) Donald John Trump (born June 14, 1946) is the 45th and current president of the United States.
+
+2Q) who is obama?
+2A) Barack Hussein Obama II ( (listen); born August 4, 1961) is an American attorney and politician who served as the 44th president of the United States from 2009 to 2017.
+
+3Q) who is gandhi?
+3A) Mohandas Karamchand Gandhi (; 2 October 1869 – 30 January 1948) was an Indian lawyer, anti-colonial nationalist, and political ethicist, who employed nonviolent resistance to lead the successful campaign for India's independence from British Rule, and in turn inspire movements for civil rights and freedom across the world.
+
+4Q) who is batman?
+4A) Batman is a fictional superhero appearing in American comic books published by DC Comics.
+
+5Q) who is warren?
+5A) A domestic warren is an artificial, enclosed establishment of animal husbandry dedicated to the raising of rabbits for meat and fur.
+
+6Q) where is america?
+6A) The United States of America (USA), commonly known as the United States (U.S. or US) or simply America, is a country comprising 50 states, a federal district, five major self-governing territories, and various possessions.
+
+7Q) where is virginia?
+7A) Virginia ( (listen)), officially the Commonwealth of Virginia, is a state in the Southeastern and Mid-Atlantic regions of the United States located between the Atlantic Coast and the Appalachian Mountains.
+
+8Q) where is asia?
+8A) Asia ( (listen)) is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres.
+
+9Q) where is george mason university?
+9A) George Mason University (GMU, Mason, or George Mason) is a public research university in Fairfax, Virginia.
+
+10Q) where is piscataway?
+10A) Piscataway () is a township in Middlesex County, New Jersey, United States.
+
+11Q) what is a slime?
+11A) Slime mold or slime mould is an informal name given to several kinds of unrelated eukaryotic organisms that can live freely as single cells, but can aggregate together to form multicellular reproductive structures.
+
+12Q) what is a bat?
+12A) Bats are mammals of the order Chiroptera; with their forelimbs adapted as wings, they are the only mammals naturally capable of true and sustained flight.
+
+13Q) what is natural language processing?
+13A) Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.
+
+14Q) what is food?
+14A) Food is any substance consumed to provide nutritional support for an organism.
+
+15Q) what is dessert?
+15A) Dessert () is a course that concludes a meal.
+
+16Q) when was korean war?
+16A) Answer not found.
+
+17Q) when did the berlin wall fall?
+17A) Answer not found.
+
+18Q) when was vietnam war?
+18A) Answer not found.
+
+19Q) when was world war 2?
+19A) Answer not found.
+
+20Q) when was einstiens birthday?
+20A) Answer not found.
